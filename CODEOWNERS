@@ -1,0 +1,7 @@
+# Since we have github-actions automatically merging PRs
+# for dev environment, we cannot apply rules below.
+# GitHub team considers making it possible to add bots
+# to code owners, so when they do we can apply the following rules.
+#
+/programs/ @khatiwadanilav
+/programs/controller
